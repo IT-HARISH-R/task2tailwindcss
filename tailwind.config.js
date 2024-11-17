@@ -12,9 +12,9 @@ module.exports = {
         primarytextcolor: "#4E596B",
         secontextcolor: "#0E38CD"
       },
-      font: {
-        secondaryfond: "Righteous, sans-serif",
-        peimaryfond:  "Saira, sans-serif",
+      fontFamily: {
+        secondaryfond: ["Righteous, sans-serif"],
+        peimaryfond:  ["Saira, sans-serif"],
       },
       boxShadow: {
         shadow1: "0 2px 10px rgba(0, 0, 0, 0.1);"
